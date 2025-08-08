@@ -1,0 +1,13 @@
+Month,Demand,Supply,Status,Condition
+Jan,1200,1150,-50,Shortage
+Feb,1100,1200,100,Surplus
+Mar,1500,1400,-100,Shortage
+Apr,1400,1450,50,Surplus
+May,1600,1500,-100,Shortage
+Jun,1300,1250,-50,Shortage
+Jul,1700,1600,-100,Shortage
+Aug,1800,1700,-100,Shortage
+Sep,1750,1600,-150,Shortage
+Oct,1650,1600,-50,Shortage
+Nov,1500,1400,-100,Shortage
+Dec,1900,1850,-50,Shortage
